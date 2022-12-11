@@ -1,4 +1,4 @@
-# red_wine_decision_tree_classification
+# Decision Tree Classification of Portuguese Vinho Verde Red Wines
 
 
 This is a decision tree classifier to correctly classify whether a wine is above average or below average.
