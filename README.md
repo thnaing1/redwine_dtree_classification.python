@@ -4,8 +4,11 @@
 This is a decision tree classifier to correctly classify whether a wine is above average or below average.
 
 Title: Classification of Wine Quality using the Decision Tree Classifier 
+
 Data Collection method: UC, Irvine Machine Learning Repository
+
 Sources: https://archive.ics.uci.edu/ml/datasets/wine+Quality
+
 Coding Language: Python
 
 The Dataset
