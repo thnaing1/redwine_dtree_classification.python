@@ -32,4 +32,4 @@ The goal is to use the 11 characteristic features - which describe the physicoch
 
 Notes
 - The dt_algo file shows the decision tree coded from scratch as well as the decision tree created using the Sci-Kit learn library. It contains annotations to demonstrate my thought process and explain the code in detail. 
-- Alternatively, the red_wine classification file only contains the simplified version the decision tree created using the Sci-Kit learn library
+- Alternatively, the red_wine decision tree classification file only contains the simplified version the decision tree created using the Sci-Kit learn library
